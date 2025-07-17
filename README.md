@@ -33,4 +33,15 @@ An interactive and responsive dashboard built using **Python**, **Streamlit**, a
 - **GeoPandas/Folium** – For map visualizations (optional)
 
 ## 📁 Folder Structure
+ecommerce-churn-prediction/
+│
+├── data/
+│ └── customer_data.csv
+├── dashboard/
+│ └── streamlit_dashboard.py
+├── notebooks/
+│ └── churn_eda_and_model.ipynb
+├── requirements.txt
+├── README.md
+└── .gitignore
 
